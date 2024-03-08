@@ -2,11 +2,15 @@
 ### Pasos para subir al repositorio
 - git clone url -> clonar repositorio
 ![clonar](./images/clonarRepo.JPG)
+
 - mkdir -> crea carpetas
 ![crearcarpeta](./images/crear%20c.JPG)
+
 - cd (nombre del folder)-> ingresar a la carpeta
+
 ![ingresarcarpeta](./images/ingresar.JPG)
 - cd .. -> salir de la carpeta
+
 ![salircarpeta](./images/salircarpeta.JPG)
 
 - code . -> abrir visual studio code desde la carpeta
@@ -25,6 +29,10 @@
 
 
 #### cómo crear una nueva rama
-- git checkout -b nombre-de-la-rama
+- git checkout -b nombre-de-la-
+
+![git checkout](./images/nuevarama.JPG)
 #### cómo cambiar de ramas
 - git checkout nombre-de-la-rama
+
+![git checkout](./images/cambiarramas.JPG)
