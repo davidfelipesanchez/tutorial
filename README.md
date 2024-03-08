@@ -18,7 +18,9 @@
 
 ### despues de guardar los cambios hacemos un commint
 - git add .
+
 ![add .](./images/add.JPG)
+
 - git commit -m "aqui va el mensaje"
 ![git commit](./images/add.JPG)
 - git status para ver el estado del commit
